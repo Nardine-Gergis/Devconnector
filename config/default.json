@@ -1,3 +1,4 @@
 {
   "mongoURI": "mongodb+srv://Nodi92179:Nodi92179@cluster0-r1xhd.mongodb.net/test?retryWrites=true&w=majority"
+  ,"jwtSecret":"mysecrettoken"
 }
